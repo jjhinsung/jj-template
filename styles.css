@@ -1,10 +1,10 @@
 h1 {
-  text-decoration: underline;
-  color: aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(189, 210, 229);
 }
 p {font-family: 'Courier New', Courier, monospace;
   color: aliceblue;}
-p1 {font-family: Georgia, 'Times New Roman', Times, serif;
+p1 {font-family: 'Courier New', Courier, monospace;
   color: aliceblue;}
 
 body {
