@@ -1,12 +1,13 @@
 h1 {
-  font-family: 'Courier New', Courier, monospace;
+  
   color: rgb(189, 210, 229);
 }
 p {font-family: 'Courier New', Courier, monospace;
   color: aliceblue;}
 p1 {font-family: 'Courier New', Courier, monospace;
   color: aliceblue;}
-
+p2 {font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;}
 body {
   background-color: rgb(0, 0, 0);
 }
